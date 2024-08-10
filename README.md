@@ -1,7 +1,3 @@
-Here's the translation of the converted guide into English:
-
----
-
 # Communicating Raspberry Pi 4 with RFID-RC522 Module and LCD Display
 
 ## Authors
