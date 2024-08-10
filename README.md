@@ -194,7 +194,7 @@ Here's the translation of the converted guide into English:
 
 5. Run the LCD program:
     ```bash
-    sudo python3 rfid_lcd.py
+    python3 rfid_lcd.py
     ```
 
 6. Remember to activate your virtual environment before running the script if it is not already activated:
